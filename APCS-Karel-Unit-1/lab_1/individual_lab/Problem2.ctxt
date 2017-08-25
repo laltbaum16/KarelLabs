@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Problem2
+comment0.text=\r\n\ @author\ \:\ \ L.\ Altbaum\r\n
+comment1.params=
+comment1.target=void\ turnRight()
+comment2.params=
+comment2.target=void\ shuttleRace()
+comment3.params=
+comment3.target=void\ toprighttobottomleft()
+comment4.params=
+comment4.target=void\ bottomlefttotopright()
+numComments=5
