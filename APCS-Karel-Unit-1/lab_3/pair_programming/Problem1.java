@@ -15,7 +15,7 @@ public class Problem1 extends Robot
     }
 
     public void checkSurrounded(){
-        
+        if (
     }
 }
 
